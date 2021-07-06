@@ -1,0 +1,14 @@
+D:\Học tập\20212\ĐATN\Codev2\APMv2\bin\Debug\netcoreapp2.1\APMv2.deps.json
+D:\Học tập\20212\ĐATN\Codev2\APMv2\bin\Debug\netcoreapp2.1\APMv2.runtimeconfig.json
+D:\Học tập\20212\ĐATN\Codev2\APMv2\bin\Debug\netcoreapp2.1\APMv2.runtimeconfig.dev.json
+D:\Học tập\20212\ĐATN\Codev2\APMv2\bin\Debug\netcoreapp2.1\APMv2.dll
+D:\Học tập\20212\ĐATN\Codev2\APMv2\bin\Debug\netcoreapp2.1\APMv2.pdb
+D:\Học tập\20212\ĐATN\Codev2\APMv2\obj\Debug\netcoreapp2.1\APMv2.csproj.CoreCompileInputs.cache
+D:\Học tập\20212\ĐATN\Codev2\APMv2\obj\Debug\netcoreapp2.1\APMv2.RazorAssemblyInfo.cache
+D:\Học tập\20212\ĐATN\Codev2\APMv2\obj\Debug\netcoreapp2.1\APMv2.RazorAssemblyInfo.cs
+D:\Học tập\20212\ĐATN\Codev2\APMv2\obj\Debug\netcoreapp2.1\APMv2.AssemblyInfoInputs.cache
+D:\Học tập\20212\ĐATN\Codev2\APMv2\obj\Debug\netcoreapp2.1\APMv2.AssemblyInfo.cs
+D:\Học tập\20212\ĐATN\Codev2\APMv2\obj\Debug\netcoreapp2.1\APMv2.RazorTargetAssemblyInfo.cache
+D:\Học tập\20212\ĐATN\Codev2\APMv2\obj\Debug\netcoreapp2.1\APMv2.dll
+D:\Học tập\20212\ĐATN\Codev2\APMv2\obj\Debug\netcoreapp2.1\APMv2.pdb
+D:\Học tập\20212\ĐATN\Codev2\APMv2\obj\Debug\netcoreapp2.1\APMv2.csprojAssemblyReference.cache
